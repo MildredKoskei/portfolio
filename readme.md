@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Mildred Koskei</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A student of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -145,9 +145,9 @@
 <!-- Section: GITHUB OVERVIEW -->
 #
 
-<h2 align="left">My GitHub Overview</h2>
+<!-- <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p> -->
 
 <!-- END -->
 
