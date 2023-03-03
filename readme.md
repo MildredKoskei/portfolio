@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Mildred Koskei</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A student of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">Just graduated from Moringa, and  working with iTalanta open-source!</h3>
 
 <br/>
 
